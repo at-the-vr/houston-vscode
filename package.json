@@ -27,6 +27,11 @@
         "label": "Houston",
         "uiTheme": "vs-dark",
         "path": "./themes/houston.json"
+      },
+      {
+        "label": "Houston Light",
+        "uiTheme": "vs",
+        "path": "./themes/houston-light.json"
       }
     ],
     "views": {
